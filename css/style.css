@@ -808,7 +808,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #666666;
   border-radius: 4px;
   text-transform: uppercase;
-  background: #fff;
+  background: rgb(41, 40, 40);
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
