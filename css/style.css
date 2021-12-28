@@ -789,6 +789,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #resources {
+  background: url("../images/kintsugi.jpg") center top no-repeat fixed;
   padding: 120px 0;
 }
 
