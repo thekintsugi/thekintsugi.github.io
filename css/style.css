@@ -873,8 +873,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 #resources .resources-item figure .link-details i {
   padding-top: 6px;
   font-size: 22px;
-  position: center;
-  color: rgb(253, 251, 251);
+  position: relative;
+  color: rgb(255, 255, 255);
 }
 
 #resources .resources-item figure .link-preview:hover,
