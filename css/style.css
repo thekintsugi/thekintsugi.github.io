@@ -842,7 +842,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item figure {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(181, 181, 181, 0.8);
   overflow: hidden;
   height: 240px;
   position: relative;
@@ -864,7 +864,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 36px;
   height: 36px;
-  background: #fff;
+  background: rgb(184, 181, 181);
   border-radius: 50%;
   transition: 0.2s linear;
 }
