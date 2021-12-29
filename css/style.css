@@ -922,6 +922,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
   margin-bottom: 18px;
   padding-bottom: 0;
+  color:rgba(0, 0, 0, 0.08)
 }
 
 #resources .resources-item .resources-info h4 a {
