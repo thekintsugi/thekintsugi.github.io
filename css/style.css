@@ -874,7 +874,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 6px;
   font-size: 22px;
   position: relative;
-  color: rgb(253, 251, 251);
+  color: rgb(180, 176, 176);
 }
 
 #resources .resources-item figure .link-preview:hover,
@@ -884,7 +884,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #resources .resources-item figure .link-preview:hover i,
 #resources .resources-item figure .link-details:hover i {
-  color: #fff;
+  color: rgb(180, 176, 176);
 }
 
 #resources .resources-item figure .link-preview {
