@@ -842,9 +842,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item figure {
-  background: rgba(255, 255, 255, 1);
+  background: rgba(255, 255, 255, 0.8);
   overflow: hidden;
-  height: 180px;
+  height: 240px;
   position: relative;
   border-radius: 4px 4px 0 0;
   margin: 0;
@@ -871,10 +871,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #resources .resources-item figure .link-preview i,
 #resources .resources-item figure .link-details i {
-  padding-top: 12px;
+  padding-top: 6px;
   font-size: 22px;
   position: relative;
-  color: rgb(255, 255, 255);
+  color: rgb(253, 251, 251);
 }
 
 #resources .resources-item figure .link-preview:hover,
@@ -908,7 +908,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item .resources-info {
-  background: rgb(216, 214, 214);
+  background: #fff;
   text-align: center;
   padding: 30px;
   height: 90px;
@@ -934,7 +934,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #resources .resources-item .resources-info p {
   padding: 0;
   margin: 0;
-  color: #ffffff;
+  color: #b8b8b8;
   font-weight: 500;
   font-size: 14px;
   text-transform: uppercase;
@@ -961,7 +961,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 10px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #ffffff;
+  color: #666666;
   border-radius: 4px;
   text-transform: uppercase;
   background: #fff;
