@@ -844,14 +844,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 #resources .resources-item figure {
   background: rgba(255, 255, 255, 1);
   overflow: hidden;
-  height: 300px;
+  height: 180px;
   position: relative;
   border-radius: 4px 4px 0 0;
   margin: 0;
 }
 
 #resources .resources-item figure:hover img {
-  opacity: 1;
+  opacity: 0.4;
   transition: 0.3s;
 }
 
@@ -879,7 +879,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #resources .resources-item figure .link-preview:hover,
 #resources .resources-item figure .link-details:hover {
-  background: #f4f4f5;
+  background: #1e576e;
 }
 
 #resources .resources-item figure .link-preview:hover i,
@@ -908,7 +908,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item .resources-info {
-  background: rgb(161, 160, 160);
+  background: rgb(216, 214, 214);
   text-align: center;
   padding: 30px;
   height: 90px;
@@ -980,12 +980,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #writings .resources-wrap {
-  box-shadow: 0px 2px 12px rgba(250, 248, 248, 0.08);
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   transition: 0.3s;
 }
 
 #writings .resources-wrap:hover {
-  box-shadow: 0px 4px 14px rgba(250, 248, 248, 0.16);
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.16);
 }
 
 #writings .resources-item {
@@ -1063,7 +1063,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   text-align: center;
   padding: 30px;
-  height: 150px;
+  height: 90px;
   border-radius: 0 0 3px 3px;
 }
 
