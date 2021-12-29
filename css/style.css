@@ -842,7 +842,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item figure {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 1);
   overflow: hidden;
   height: 240px;
   position: relative;
