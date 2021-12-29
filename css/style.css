@@ -884,7 +884,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #resources .resources-item figure .link-preview:hover i,
 #resources .resources-item figure .link-details:hover i {
-  color: #fff;
+  color: rgb(233, 233, 233);
 }
 
 #resources .resources-item figure .link-preview {
