@@ -908,7 +908,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #resources .resources-item .resources-info {
-  background: #fff;
+  background: rgb(216, 215, 215);
   text-align: center;
   padding: 30px;
   height: 90px;
