@@ -829,7 +829,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   box-shadow: 0px 2px 12px rgba(241, 240, 240, 0.8);
   position: relative;
   transition: 0.3s;
-  left: calc
 }
 
 #resources .resources-wrap:hover {
