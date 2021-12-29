@@ -827,13 +827,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #resources .resources-wrap {
   box-shadow: 0px 2px 12px rgba(241, 240, 240, 0.8);
-  position: relative;
   transition: 0.3s;
 }
 
 #resources .resources-wrap:hover {
   box-shadow: 0px 4px 14px rgba(255, 255, 255, 0.8);
-  position: relative;
 
 }
 
