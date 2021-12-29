@@ -225,6 +225,8 @@ h6 {
 
 #intro .carousel-content {
   text-align: justify;
+  height: 120%;
+  width: 120%;
   
 }
 
