@@ -972,7 +972,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #writings #resources-flters li:hover,
 #writings #resources-flters li.filter-active {
   background: #1e576e;
-  color: #fff;
+  color: rgb(199, 196, 196);
 }
 
 #writings #resources-flters li:last-child {
@@ -1017,7 +1017,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 36px;
   height: 36px;
-  background: #fff;
+  background: rgb(190, 189, 189);
   border-radius: 50%;
   transition: 0.2s linear;
 }
@@ -1036,7 +1036,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #writings .resources-item figure .link-preview:hover i,
 #writings .resources-item figure .link-details:hover i {
-  color: #fff;
+  color: rgb(201, 199, 199);
 }
 
 #writings .resources-item figure .link-preview {
